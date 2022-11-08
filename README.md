@@ -20,9 +20,12 @@ I'm currently enrolled in the Get Coding program. I'm exited for the opporunitie
 
 ## 🤝 Connect with me: [:mailbox_with_mail:](https://www.linkedin.com/in/yusmely-lozano-gonzález-13b795a6/)
 
-![Instagram-Icon](https://user-images.githubusercontent.com/115137407/200506406-e87e2156-50ae-4948-8a74-b55620c9a650.png)
-![Linkedin-Icon](https://user-images.githubusercontent.com/115137407/200506407-03cf20ee-9746-4060-9ffa-4a1cc7113271.png)
-![Youtube-Icon](https://user-images.githubusercontent.com/115137407/200506408-8a241df5-d9fb-49cb-82b8-32533ad8e127.png)
+
+<a href="https://Instagram.com/in/yusmelylg" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/115137407/200506406-e87e2156-50ae-4948-8a74-b55620c9a650.png" alt="Instagram"/></a>
+
+<a href="https://linkedin.com/in/yusmely-lozano-gonz%C3%A1lez-13b795a6" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/115137407/200506407-03cf20ee-9746-4060-9ffa-4a1cc7113271.png" alt="Linkedin" /></a>
+
+<a href="https://Youtube.com/channel/UC2MEQmmCVL2eDxSyRhSEFiQ" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/115137407/200506408-8a241df5-d9fb-49cb-82b8-32533ad8e127.png" alt="YouTube"  /></a>
 
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
