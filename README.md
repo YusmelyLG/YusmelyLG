@@ -2,7 +2,7 @@
 ![YLG-README Banner](https://user-images.githubusercontent.com/115137407/200499463-7f36007d-b09f-45a0-adf9-4b58220024fc.png)
 
 ✍️ I love to create content and editing videos for my YouTube channel. 
-I'm currently enrolled in the Get Coding program. I'm excited for the opporunities it offeres to create at a different level. 
+I'm currently enrolled in the Get Coding program. I'm excited for the opporunities it offers to create at a different level. 
 
 ✍️ Looking foward to learn and pursue a job in tech industry.
 
