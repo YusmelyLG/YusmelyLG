@@ -8,7 +8,7 @@ I'm currently enrolled in the Get Coding program. I'm excited for the opporuniti
 
 ## 🔭 I'm currently working on
 - My YouTube channel 🎥
-- My portal
+- My Website
 - My CSS skill 
 - My next blog
 
