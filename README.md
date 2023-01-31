@@ -13,8 +13,8 @@ I'm currently enrolled in the Get Coding program. I'm excited for the opporuniti
 - My next blog
 
 ## 🌱 I'm currently learning
-- Html
-- Css
+- HTML
+- CSS
 - JavaScript 💻
 - ReactJS
 
